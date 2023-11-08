@@ -15,7 +15,9 @@ further update and increase functionality.
 
 Drafter Documentation: https://drafter-edu.github.io/drafter/students/docs.html
 
-As I am still a novice programmer, I am open to any areas of advice, or suggestions
-for this program or my programming in general. Thank you!
+I am open to any areas of advice, or suggestions
+for this program or my programming in general. As
+a novice, any advice or learning experience I can get is
+invaluable, and I would greatly appreciate the feedback. Thank you!
 
 -Shaurya Kumar
